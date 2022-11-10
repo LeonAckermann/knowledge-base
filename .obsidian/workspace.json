@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "28aa43f3992dfe09",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d74fa99849cd2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb5a4d9899aad45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine-learning/deep-learning/Multi-Layer-Perceptron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87610ab2a42d4c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "059ca2ee03ee604a",
+    "type": "split",
+    "children": [
+      {
+        "id": "92373a72bb7227fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9e356257a03c89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72ee49fbf5b63a49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ccaa78f70ba7415",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7afea6ba0ac6fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "32934cd0af3285e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c6f0fe638a47a43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "machine-learning/deep-learning/Multi-Layer-Perceptron.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82804b647f551d74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "machine-learning/deep-learning/Multi-Layer-Perceptron.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9996e016f175a837",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0df1cec02fd22004",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "machine-learning/deep-learning/Multi-Layer-Perceptron.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aeb5a4d9899aad45",
+  "lastOpenFiles": [
+    "machine-learning/deep-learning/Backpropagation.md",
+    "machine-learning/deep-learning/Multi-Layer-Perceptron.md"
+  ]
+}
