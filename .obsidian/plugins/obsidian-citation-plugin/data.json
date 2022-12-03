@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "References",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n# {{title}}\n{{authorString}}({{year}})\n[Zotero-Link]({{zoteroSelectURI}})\n\n>[!ABSTRACT]-\n>{{abstract}}\n\n---\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/leonackermann/Documents/Zotero/My Library.bib"
+}

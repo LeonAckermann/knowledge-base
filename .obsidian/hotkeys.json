@@ -1,1 +1,40 @@
-{}
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Import Annotations": [],
+  "obsidian-zotero-desktop-connector:zdc-import-notes": [],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:show-zotero-debug-view": [],
+  "obsidian-zotero-desktop-connector:zdc-insert-notes": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-citation-plugin:open-literature-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

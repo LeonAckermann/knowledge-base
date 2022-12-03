@@ -8,87 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd04ef7f660b765a",
+            "id": "c2ff59a037b91b50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cognitive-science/DL/ANNs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abab5bdb9fec0f63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming-languages/tensorflow/Data in Tensorflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcd9aa5f79e99dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming-languages/tensorflow/Tensors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac2b509e51767590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cognitive-science/NLP/Word vectors in NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d1b5978ff0d9e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cognitive-science/NLP/Word vectors in NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba802ee08a76845c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming-languages/tensorflow/GradientTape.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0eb3082db46f15f4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "30e8f28369b9416c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Long Short-Term Memory (LSTM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b8f5f252c19e3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/skip-gram.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/skip-gram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/skip-gram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,27 +145,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/skip-gram.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0eb3082db46f15f4",
+  "active": "5b8f5f252c19e3da",
   "lastOpenFiles": [
-    "programming-languages/tensorflow/Data in Tensorflow.md",
-    "programming-languages/tensorflow/GradientTape.md",
-    "programming-languages/tensorflow/Keras.md",
-    "programming-languages/tensorflow/Tensors.md",
-    "2022-11-15.md",
-    "cognitive-science/DL/Backpropagation.md",
-    "cognitive-science/DL/Convolutional Neural Networks.md",
-    "cognitive-science/DL/Softmax.md",
-    "cognitive-science/NLP/Word vectors in NLP.md",
-    "cognitive-science/NLP/Distributional semantics.md"
+    "Zettelkasten/Supervised Learning.md",
+    "Zettelkasten/Long Short-Term Memory (LSTM).md",
+    "Zettelkasten/Word2vec.md",
+    "Zettelkasten/skip-gram.md",
+    "Zettelkasten/Word Embeddings.md",
+    "References/@jurafskySpeechLanguageProcessing.md",
+    "Zettelkasten/Deep Learning.md",
+    "Zettelkasten/Vector Semantics and Embeddings.md",
+    "Zettelkasten/Distributional semantics.md",
+    "Zettelkasten/Context Managers.md"
   ]
 }
